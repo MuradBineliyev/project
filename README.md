@@ -17,3 +17,17 @@ $3 User interface
 3.3 Vizual gorunus (eyer geyimdirse, aksesuar)
 3.3.1 3d gorunuw
 3.3.2 geyim ve ya aksesuarlarin beden olcusune gore vzual gorunuw
+
+
+
+
+Q1.meqsedim dunyada var amma azerbaycanda zeif oldugu ucun butun respublikda evinde oturub sifariw vermek
+Q2.Uzaqdan elimiz catmayan mehsullari visual gormek ve elde etmek.
+Q3. Yaradacagim 3d vasitesi ile maraq ceke bilerem 
+Q4. Camaata rahatliq vaxt qazandirmaq ve
+Q5. Buna gore pul qazanmaq 
+Q7.Mehsullarin informationu elde etmek kuryerlere razilawmaq 
+Q8 Menim proyektimde arawdirma edeceyim isler : 3D persanaj ucun arasdirma 1 ay birdeki kuryer , firmalar ve s ile muqavileni nece bagliyaram ve ya nece ozume cezb ederem 
+Q9.3d personajin yaradilmasinda ola biler 
+Q10. 40%
+Q11. Olacaq inwallah :) 
